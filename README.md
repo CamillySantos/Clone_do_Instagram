@@ -19,8 +19,7 @@ https://github.com/CamillySantos/Clone_do_Instagram/assets/105953740/704a66ec-74
 
 No meu LinkedIn
 
-https://www.linkedin.com/posts/camilly-aparecida-alves-dos-santos_react-activity-7062945774543806464-N7qH?utm_source=share&utm_medium=member_desktop
-
+https://www.linkedin.com/posts/camilly-a-santos_react-activity-7062945774543806464-V2t8?utm_source=share&utm_medium=member_desktop
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
